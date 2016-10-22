@@ -1,0 +1,27 @@
+h1 {
+	text-align: center;
+	color: red;
+	background-color: gray;
+	text-transform: uppercase;
+}
+
+body {text-align: center;
+	border-top: 5px;
+	border-bottom: 5px;
+	background-color: gray;
+	}
+
+#first-p-tag {font-weight: bold;
+font-size: 18
+}
+
+.other-p-tags {font-style: italic;
+}
+
+img {border: 2px;
+border-color: black;
+float: right;  
+}
+
+hr
+
